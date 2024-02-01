@@ -1,4 +1,4 @@
-### Hello, I'm Ajim 👋
+## Hello, I'm Ajim 👋
 # A Full Stack Web Developer & Cloud Enthusiast
 
 - 🌱 I’m currently learning Java and Spring Boot
