@@ -1,5 +1,5 @@
 ### Hello, I'm Ajim 👋
-# A Full Stack Developer & Cloud Enthusiast
+# A Full Stack Web Developer & Cloud Enthusiast
 
 - 🌱 I’m currently learning Java and Spring Boot
 - 🌟 I have experience working with JavaScript, TypeScript, and React
