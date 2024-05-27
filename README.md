@@ -1,10 +1,4 @@
-## Hello, I'm Ajim 👋
-# A Full Stack Web Developer & Cloud Enthusiast
-
-- 🌱 I’m currently learning Java and Spring Boot
-- 🌟 I have experience working with JavaScript, TypeScript, and React
-- ☁️ I'm AWS Solutions Architect Certified
-- 🤝 I'm looking to collaborate on open-source projects
+## Hello there 👋
 
 <!--
 **ajimbong/ajimbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
